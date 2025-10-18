@@ -61,3 +61,6 @@ console.log(anotherCounter()); // Output: -2
 console.log(anotherCounter()); // Output: -1
 console.log(anotherCounter()); // Output: 0
 
+
+
+
